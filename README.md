@@ -1,1 +1,1 @@
-Using Google Index Trends and High-frequency State-level Data to Predict National Unemployment Rates
+Using Google Index Trends and high-frequency state-level data to predict US national Unemployment Rates
